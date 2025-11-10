@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Szyfry": {
+      "commandName": "Project",
+      "commandLineArgs": "encode enc.txt 3"
+    }
+  }
+}
